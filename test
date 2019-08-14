@@ -1,0 +1,21 @@
+Hi Krishna, thank you for the additional details.  
+ 
+Matt’s entire team is out of the office in an offsite session, so they were unable to provide us with the clarification we need. As I understand it, the middle section (indicators) is the top priority.  Ayon said he will follow up with Matt on names and how they want to handle Nulls.  We should have an answer by the end of the week. 
+ 
+For now: we can assume that Y/N indicator is what the business is asking for. 
+ 
+I appreciate the level of detail you included in your samples, and have one request.  Would you create a side-by-side comparison of the base table and the new table with no more than 3 data samples per attribute?  We need people who aren’t so deep in the details to quickly understand the issue and what we’re asking of them. 
+ 
+Many thanks, Cherie
+
+
+
+
+
+Thanks Cherie.
+
+Yes- proceed with your tasks to complete the user stories as they are written. Make any obvious assumptions to move forward.
+
+I think the things we are seeking confirmation for will only impact the column names and shouldn't impede on movement forward (value and record mock up, ABC columns,  UDD prep.
+
+For any UDD started,  we can use the release comment field to note pending status. 
